@@ -6,6 +6,6 @@ excerpt: '2021 IEEE/RSJ International Conference on Intelligent Robots and Syste
 date: 
 authors: 'Authors S. Upadhye, C. Shah, M. Liu, G. Buckner and H. H. Huang'
 venue: 'Prague, Czech Republic'
-paperurl: 'https://ieeexplore.ieee.org/document/9636324'
-citation: ''
+paperurl: 
+citation: 
 ---
