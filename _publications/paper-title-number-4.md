@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "A Powered Prosthetic Ankle Designed for Task Variability – A Concept Validation"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink:
+excerpt: ''
 date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 
+paperurl: 'https://ieeexplore.ieee.org/document/9636324'
+citation: 'S. Upadhye, C. Shah, M. Liu, G. Buckner and H. H. Huang, "A Powered Prosthetic Ankle Designed for Task Variability – A Concept Validation," 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Prague, Czech Republic, 2021, pp. 6153-6158, doi: 10.1109/IROS51168.2021.9636324.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: S. Upadhye, C. Shah, M. Liu, G. Buckner and H. H. Huang, "A Powered Prosthetic Ankle Designed for Task Variability – A Concept Validation," 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Prague, Czech Republic, 2021, pp. 6153-6158, doi: 10.1109/IROS51168.2021.9636324.
