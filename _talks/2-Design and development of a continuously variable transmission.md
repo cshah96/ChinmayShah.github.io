@@ -3,7 +3,7 @@ title: "Development of a Continuously Variable Transmission System"
 collection: talks
 type: ""
 permalink: 
-excerpt: " **Duration:** Dec 2016 - May 2018 <br> **Contribution:** Machine Design, Manufacturing, Finite Element Analysis and Data Acquisition system <br>" 
+excerpt: " **Duration:** Dec 2016 - Mar 2018 <br> **Contribution:** Machine Design, Manufacturing, Finite Element Analysis and Data Acquisition system <br>" 
 venue:  
 location: 
 ---
