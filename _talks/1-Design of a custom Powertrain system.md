@@ -1,9 +1,9 @@
 ---
-title: "Design and Development of a custom powertrain system"
+title: "Design and Development of a Custom Powertrain System"
 collection: talks
 type: ""
 permalink: 
-excerpt: " Duration: Dec 2016 - May 2018 <br> Contribution: Conceptualization, Machine Design, Design Validation, Manufacturing Processes, Testing and Finite Element Analysis <br>" 
+excerpt: " **Duration:** Dec 2016 - May 2018 <br> **Contribution:** Conceptualization, Machine Design, Design Validation, Manufacturing Processes, Testing and Finite Element Analysis <br>" 
 venue:  
 location: 
 ---
@@ -20,7 +20,7 @@ The continuously variable transmission alone could not provide the required amou
 
 We designed a custom aluminum casing that reduced the overall weight of the gearbox by approximately 2.5 kg (a 35% reduction) compared to the previous year's gearbox, while still maintaining the required transmission ratio for the appropriate amount of torque. To keep the gearbox cool and maintain peak performance during the 4-hour race, we developed an efficient cooling solution to reduce wear and tear.
 
-![Distance to line](Gearbox.png)
+![Distance to line](/images/Gearbox.png)
 
 ## Development of a Composite Velocity Joint
 
@@ -30,4 +30,4 @@ To overcome this problem, we designed a custom aluminum joint with a 2mm thin st
 
 However, this innovative solution presented a significant manufacturing challenge. It was very difficult to manufacture a precise 2mm thin insert that would perfectly fit inside an aluminum casing. To make the insert 2mm thin without warping, we employed non-conventional manufacturing processes such as wire cutting and EDM (Electron Discharge Machining).
 
-![Distance to line](CVJ.png)
+![Distance to line](/images/CVJ.png)
