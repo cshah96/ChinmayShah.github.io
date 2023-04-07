@@ -1,17 +1,14 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Design of Non-Linear Controllers for a 2-DOF Robotic Manipulators"
 collection: talks
-type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-location: "Berkeley CA, USA"
+type: ""
+permalink: 
+excerpt: " **Duration:** Aug 2020 - Dec 2020 <br> **Contribution:** Non-linear control theory, MATLAB and SIMULINK simulations <br>" 
+venue:  
+location: 
 ---
 
-[More information here](http://exampleurl.com)
 
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+For our Non-Linear Controls class project, we implemented three different non-linear controllers - Exact Model Knowledge control, adaptive control, and robust control - for a 2-DOF robotic manipulator. Our goal was to enable the manipulator to track a specified target trajectory.
+As part of the project, we also had to prove the Lyapunov stability of all the controllers in the presence of external disturbances and unknown model parameters. We then simulated the designed controllers using MATLAB and Simulink, and evaluated their performance for a simple position tracking task.
 
-ADDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
-DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
-DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
-DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
