@@ -20,7 +20,7 @@ The team also developed a custom electronic tuning system that allowed the user 
 
 Overall, the project appears to be a success, as the team was able to develop a custom CVT system that provided better performance than the OEM CVT system while also reducing weight and enabling tunability.
 
-![Distance to line](http://cshah96.github.io/ChinmayShah.github.io/images/CVT.png)
+![Distance to line](http://cshah96.github.io/ChinmayShah.github.io/images/CVT.PNG)
 
 <video controls>
   <source src="http://cshah96.github.io/ChinmayShah.github.io/images/CVT video.mp4" type="video/mp4">
