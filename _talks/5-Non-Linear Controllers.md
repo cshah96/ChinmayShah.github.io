@@ -3,7 +3,7 @@ title: "Design of Non-Linear Controllers for a 2-DOF Robotic Manipulator"
 collection: talks
 type: ""
 permalink: 
-excerpt: " **Duration:** Aug 2020 - Dec 2020 <br> **Contribution:** Non-linear control theory, MATLAB and SIMULINK simulations <br>" 
+excerpt: " **Duration:** Aug 2020 - Dec 2020 <br> **Contribution:** Non-linear control theory, MATLAB and Simulink simulations <br>" 
 venue:  
 location: 
 ---
