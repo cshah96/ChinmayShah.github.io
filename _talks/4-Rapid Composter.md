@@ -3,7 +3,7 @@ title: "Rapid Waste Composting Machine"
 collection: talks
 type: ""
 permalink: 
-excerpt: " **Duration:** May 2017 - Dec 2018 <br> **Contribution:** Conceptualization, Raspberry Pi, Embedded and Data Acquisition system and Rapid prototyping <br>" 
+excerpt: " **Duration:** May 2017 - Dec 2018 <br> **Contribution:** Conceptualization, Raspberry Pi, Embedded and Data Acquisition system and Rapid prototyping <br> **Awards: Runners up award at Aakruti 2018 (Dassault Systems Design Innovation Competition) out of 1200 teams all over India.**" 
 venue:  
 location: 
 ---
@@ -18,8 +18,8 @@ We developed a compact rapid composting machine that can convert organic waste t
 ![Distance to line](http://cshah96.github.io/ChinmayShah.github.io/images/Rapid Composter.png)
 
 ## Awards
-•	Won the runners up award at Aakruti 2018 (Dassault Systems Design Innovation Competition) out of 1200 teams all over India.
-•	Won the Forbes Marshall best project award
-•	Pune University state level design competition.
+- Won the runners up award at Aakruti 2018 (Dassault Systems Design Innovation Competition) out of 1200 teams all over India.
+- Won the Forbes Marshall best project award
+- Pune University state level design competition.
 
 ![Distance to line](http://cshah96.github.io/ChinmayShah.github.io/images/Awards.png)

@@ -12,21 +12,27 @@ I led a team of 25 students in designing, manufacturing, and building an off-roa
 
 ![Distance to line](http://cshah96.github.io/ChinmayShah.github.io/images/BAJA_SAE.png)
 
+[Youtube Link](https://www.youtube.com/watch?v=owuxoNhibvM)
+
 As a budding mechanical engineer, I gained a great deal of theoretical knowledge through my courses, but the workshop was where I was able to apply these concepts practically, solidify my understanding, and experiment with innovative ideas. Above all, I had a lot of fun doing it.
 
+<div align="center">
 <video controls>
   <source src="http://cshah96.github.io/ChinmayShah.github.io/images/WOQD9547.MP4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+</div>
 
 Reliability is a significant concern in BAJA SAE due to the demanding nature of the events. It was fascinating to apply innovative solutions to powertrain design to ensure reliability while also developing a system that was lightweight and efficient.
 
 In my third year on the team, I became the captain and head of powertrain design. As captain, it was essential to ensure that younger team members received the appropriate exposure and experience to develop their skills and knowledge so that they could continue to advance development in the future. It was also crucial to delegate work efficiently and plan deadlines to ensure sufficient time for designing, manufacturing, and, most importantly, testing.
 
+<div align="center">
 <video controls>
   <source src="http://cshah96.github.io/ChinmayShah.github.io/images/GOBQ9583.MP4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+</div>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=owuxoNhibvM" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=owuxoNhibvM" frameborder="0" allowfullscreen></iframe> -->
