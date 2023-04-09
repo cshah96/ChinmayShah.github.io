@@ -12,8 +12,10 @@ location:
 
 The project involved the design and manufacturing of a custom tunable continuously variable transmission (CVT) system to improve acceleration performance without sacrificing top-speed performance. The CVT system is a centrifugal clutch system set up with a V belt driven pulley system that allows for a smooth transition between high and low gear ratios.
 
+<div align="center">
 <img src="http://cshah96.github.io/ChinmayShah.github.io/images/cvt_photo.PNG" alt="Image not shown" width="300" height="300">
-
+ </div>
+ 
 By developing a custom CVT system, the team was able to tune the performance depending on different events of the competition. For instance, in traction-specific events, they were able to delay the transition, providing high initial torque required to start pulling a heavy load. Similarly, they could adjust the system for acceleration events and the 4-hour endurance race where top speed is important.
 
 <div align="center">
