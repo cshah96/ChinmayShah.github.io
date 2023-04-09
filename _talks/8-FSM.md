@@ -13,7 +13,7 @@ I developed a finite state control system for a robotic ankle prosthesis to faci
 
 This enabled the the user to perform level ground walking and stair climbing. 
 
-The results of this study were presented at [IROS 2021.](https://cshah96.github.io/ChinmayShah.github.io//publications/1-Paper.md/)
+The results of this study were presented at [IROS 2021.](https://cshah96.github.io/ChinmayShah.github.io//publications/1-Paper/)
 
 <div align="center">
 <video controls>
@@ -22,18 +22,3 @@ The results of this study were presented at [IROS 2021.](https://cshah96.github.
 </video>
 </div>
 
-
-
-
-
-
-
-
-The results of this study were presented at [IROS 2021.](https://cshah96.github.io/ChinmayShah.github.io//publications/1-Paper.md/)
-
-<div align="center">
-<video controls>
-  <source src="http://cshah96.github.io/ChinmayShah.github.io/images/IROS_FINAL_VIDEO.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</div>

@@ -18,7 +18,7 @@ I contributed to the development of a robotic ankle prosthesis that restores 1 d
 
 This enabled the the user to perform level ground walking and stair climbing. 
 
-The results of this study were presented at [IROS 2021.](https://cshah96.github.io/ChinmayShah.github.io//publications/1-Paper.md/)
+The results of this study were presented at [IROS 2021.](https://cshah96.github.io/ChinmayShah.github.io//publications/1-Paper/)
 
 <div align="center">
 <video controls>
