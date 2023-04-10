@@ -24,7 +24,7 @@ The model was trained using EMG signals and biomechanical data collected during 
 This was the first controller to be implemented in real-time on a robotic prosthetic device and tested while performing unpredictable, non-repetitive tasks. The results of this study were presented at [IROS 2022.](https://cshah96.github.io/ChinmayShah.github.io//publications/2-Paper/)
 
 <div align="center">
-<video controls>
+<video width="640" height="360" controls>
   <source src="http://cshah96.github.io/ChinmayShah.github.io/images/Dynamic_balance_crop.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
