@@ -1,5 +1,5 @@
 ---
-title: "BAJA SAE 2017-2018"
+title: "BAJA SAE 2017-2018 - Design and Development of an Off-road Vehicle"
 collection: talks
 type: ""
 permalink: 
