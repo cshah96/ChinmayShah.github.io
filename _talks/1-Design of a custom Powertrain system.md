@@ -2,7 +2,7 @@
 title: "Design and Development of a Custom Powertrain System"
 collection: talks
 type: ""
-permalink: 
+permalink: "/talks/CVTProjects"
 excerpt: " **Duration:** Dec 2016 - Mar 2018 <br> **Contribution:** Conceptualization, Machine Design, Design Validation, Manufacturing Processes, Testing and Finite Element Analysis <br>" 
 venue:  
 ---

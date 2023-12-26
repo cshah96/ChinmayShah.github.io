@@ -23,3 +23,4 @@ Working at DEKA and the NREL Lab has instilled in me a passion for robotics and 
 ## Projects
 
 ![Project Image](http://cshah96.github.io/ChinmayShah.github.io/images/Gearbox.png) 
+[Link to CVT Project](/talks/CVTProjects)
