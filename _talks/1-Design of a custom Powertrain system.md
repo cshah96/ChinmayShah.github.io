@@ -4,7 +4,6 @@ collection: talks
 type: ""
 permalink: 
 excerpt: " **Duration:** Dec 2016 - Mar 2018 <br> **Contribution:** Conceptualization, Machine Design, Design Validation, Manufacturing Processes, Testing and Finite Element Analysis <br>" 
-![Project Image](http://cshah96.github.io/ChinmayShah.github.io/images/Gearbox.png)
 venue:  
 ---
 
