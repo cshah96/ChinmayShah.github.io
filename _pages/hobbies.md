@@ -1,11 +1,9 @@
 ---
-permalink: /
+layout: archive
 title: "Hobbies"
-excerpt: "Hobbies"
+title: "My Hobbies"
+permalink: /Hobbies/
 author_profile: true
-redirect_from: 
-  - /hobbies/
-  - /hobbies.html
 ---
 
 
