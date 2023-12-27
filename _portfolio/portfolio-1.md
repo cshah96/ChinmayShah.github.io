@@ -1,6 +1,6 @@
 ---
 title: "Design and Development of a Custom Powertrain System"
-excerpt: " <img src="http://cshah96.github.io/ChinmayShah.github.io/images/powertrain.png" alt="Alt Text" width="300" height="200" align="center">"
+excerpt: " Timepass it is"
 collection: portfolio
 ---
 
