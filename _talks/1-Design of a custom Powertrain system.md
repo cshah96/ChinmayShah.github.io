@@ -3,7 +3,7 @@ title: "Design and Development of a Custom Powertrain System"
 collection: talks
 type: ""
 permalink: "/talks/CVTProjects"
-excerpt: " **Duration:** Dec 2016 - Mar 2018 <br> **Contribution:** Conceptualization, Machine Design, Design Validation, Manufacturing Processes, Testing and Finite Element Analysis <br> ![Distance to line](http://cshah96.github.io/ChinmayShah.github.io/images/gearbox2.png) " 
+excerpt: " **Duration:** Dec 2016 - Mar 2018 <br/> **Contribution:** Conceptualization, Machine Design, Design Validation, Manufacturing Processes, Testing and Finite Element Analysis <br/> ![Distance to line](http://cshah96.github.io/ChinmayShah.github.io/images/powertrain.png) " 
 venue:  
 ---
 
@@ -13,7 +13,7 @@ I led the development of a custom powertrain system that enabled us to reduce th
 
 By developing a completely custom powertrain system, we were able to reduce the weight of the vehicle and fine-tune its performance to meet our specific requirements. This gave us a significant advantage in terms of speed, agility, and overall performance.
 
-<img src="http://cshah96.github.io/ChinmayShah.github.io/images/powertrain.png" alt="Alt Text" width="400" height="300" align="center">
+<img src="http://cshah96.github.io/ChinmayShah.github.io/images/powertrain.png" alt="Alt Text" width="500" height="400" align="center">
 
 ## Development of a Custom 2-Stage Compound Gearbox
 
