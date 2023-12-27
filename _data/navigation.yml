@@ -4,12 +4,12 @@ main:
     url: /publications/
 
   - title: "Projects"
-    url: /talks/    
+    url: /talks/   
+
+  - title: "Work Experience"
+    url: /portfolio/ 
   
   - title: "CV"
-    url: http://cshah96.github.io/ChinmayShah.github.io/files/Chinmay_Shah_CV.pdf
-
-  - title: "Resume"
     url: http://cshah96.github.io/ChinmayShah.github.io/files/Chinmay_Shah_CV.pdf
 
   - title: "Hobbies"
