@@ -3,7 +3,7 @@ title: "Design and Development of a Custom Powertrain System"
 collection: talks
 type: ""
 permalink: "/talks/CVTProjects"
-excerpt: " **Duration:** Dec 2016 - Mar 2018 <br> **Contribution:** Conceptualization, Machine Design, Design Validation, Manufacturing Processes, Testing and Finite Element Analysis <br>" 
+excerpt: " **Duration:** Dec 2016 - Mar 2018 <br> **Contribution:** Conceptualization, Machine Design, Design Validation, Manufacturing Processes, Testing and Finite Element Analysis <br> <img src="http://cshah96.github.io/ChinmayShah.github.io/images/powertrain.png" alt="Alt Text" width="300" height="200" align="center">" 
 venue:  
 ---
 
@@ -13,13 +13,15 @@ I led the development of a custom powertrain system that enabled us to reduce th
 
 By developing a completely custom powertrain system, we were able to reduce the weight of the vehicle and fine-tune its performance to meet our specific requirements. This gave us a significant advantage in terms of speed, agility, and overall performance.
 
+<img src="http://cshah96.github.io/ChinmayShah.github.io/images/powertrain.png" alt="Alt Text" width="300" height="200" align="center">
+
 ## Development of a Custom 2-Stage Compound Gearbox
 
 The continuously variable transmission alone could not provide the required amount of torque, necessitating the design and manufacture of a 2-stage compound gearbox. Manufacturing our own gearbox was a challenging endeavor, but it allowed us to achieve some interesting weight reductions. Through the process, I gained valuable knowledge about tolerances and bearing selections. We also discovered that gear design standards typically assume millions of life cycles, but by knowing the hours-of-service life of our gears, we could significantly reduce their size.
 
 We designed a custom aluminum casing that reduced the overall weight of the gearbox by approximately 2.5 kg (a 35% reduction) compared to the previous year's gearbox, while still maintaining the required transmission ratio for the appropriate amount of torque. To keep the gearbox cool and maintain peak performance during the 4-hour race, we developed an efficient cooling solution to reduce wear and tear.
 
-![Distance to line](http://cshah96.github.io/ChinmayShah.github.io/images/Gearbox.png)
+![Distance to line](http://cshah96.github.io/ChinmayShah.github.io/images/gearbox2.png)
 
 ## Development of a Composite Velocity Joint
 
