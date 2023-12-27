@@ -1,6 +1,6 @@
 ---
 title: "Design and Development of a Custom Powertrain System"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "**Duration:** Dec 2016 - Mar 2018 <br/> <img src="http://cshah96.github.io/ChinmayShah.github.io/images/powertrain.png" alt="Alt Text" width="300" height="200" align="center">"
 collection: portfolio
 ---
 
@@ -8,7 +8,7 @@ I led the development of a custom powertrain system that enabled us to reduce th
 
 By developing a completely custom powertrain system, we were able to reduce the weight of the vehicle and fine-tune its performance to meet our specific requirements. This gave us a significant advantage in terms of speed, agility, and overall performance.
 
-<img src="http://cshah96.github.io/ChinmayShah.github.io/images/powertrain.png" alt="Alt Text" width="300" height="200" align="center">
+<img src="http://cshah96.github.io/ChinmayShah.github.io/images/powertrain.png" alt="Alt Text" width="400" height="300" align="center">
 
 ## Development of a Custom 2-Stage Compound Gearbox
 
