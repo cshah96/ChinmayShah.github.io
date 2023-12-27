@@ -3,7 +3,7 @@ title: "Design and Development of a Custom Powertrain System"
 collection: talks
 type: ""
 permalink: "/talks/CVTProjects"
-excerpt: " **Duration:** Dec 2016 - Mar 2018 <br/> **Contribution:** Conceptualization, Machine Design, Design Validation, Manufacturing Processes, Testing and Finite Element Analysis <br/> ![Distance to line](http://cshah96.github.io/ChinmayShah.github.io/images/powertrain.png =400x300) " 
+excerpt: " **Duration:** Dec 2016 - Mar 2018 <br/> **Contribution:** Conceptualization, Machine Design, Design Validation, Manufacturing Processes, Testing and Finite Element Analysis <br/> <img src="http://cshah96.github.io/ChinmayShah.github.io/images/powertrain.png" width="500" height="400"> " 
 venue:  
 ---
 
