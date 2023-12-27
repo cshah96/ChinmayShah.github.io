@@ -1,6 +1,6 @@
 ---
 title: "Design and Development of a Custom Powertrain System"
-excerpt: " Timepass it is"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
