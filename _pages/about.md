@@ -20,7 +20,3 @@ Working at DEKA and the NREL Lab has instilled in me a passion for robotics and 
 
  In my free time, I enjoy running, hiking, mountain biking, skiing, and playing the piano.
 
-## Projects
-
-![Project Image](http://cshah96.github.io/ChinmayShah.github.io/images/Gearbox.png) 
-[Link to CVT Project](https://cshah96.github.io/ChinmayShah.github.io//talks/CVTProjects)
