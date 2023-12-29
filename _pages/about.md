@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a dedicated robotics enthusiast with a fervent interest in pushing the boundaries of technology. My current research revolves around drawing inspiration from nature to pioneer innovative robotics solutions. Specifically, my focus lies in the intricate dynamics of human locomotion, and I aim to comprehend and apply these principles in the development of humanoids and exoskeletons. My overarching goal is to bridge the efficiency of nature with cutting-edge robotics, exploring ways to augment machine capabilities by harnessing insights from the grace of natural movement. I am committed to propelling the field of robotics forward through interdisciplinary exploration and continuous learning.
+I am a dedicated robotics enthusiast with a fervent interest in pushing the boundaries of technology. My current research revolves around drawing inspiration from nature to pioneer innovative robotics solutions. Specifically, my focus lies in understanding the intricate dynamics of human locomotion, and I aim to comprehend and apply these principles in the development of humanoids and exoskeletons. My overarching goal is to bridge the efficiency of nature with cutting-edge robotics, exploring ways to augment machine capabilities by harnessing insights from the grace of natural movement. I am committed to propelling the field of robotics forward through interdisciplinary exploration and continuous learning.
 
 To follow this passion of mine I recently joined the Institute of Human and Machine Cognition (IHMC) in Florida, where my research centers on the development of diverse control algorithms for augmentative exoskeletons.
 
