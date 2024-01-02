@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
+  - title: "Work Experience / Projects"
     url: /talks/   
 
-  - title: "Work Experience"
-    url: /portfolio/ 
+  # - title: "Work Experience"
+  #   url: /portfolio/ 
   
   - title: "CV"
     url: http://cshah96.github.io/ChinmayShah.github.io/files/Chinmay_Shah_PhD_CV.pdf
