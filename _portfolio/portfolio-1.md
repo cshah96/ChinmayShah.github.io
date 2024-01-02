@@ -1,6 +1,6 @@
 ---
 title: "Design and Development of a Custom Powertrain System"
-excerpt: "**Duration:** Dec 2016 - Mar 2018 <br/> <img src="http://cshah96.github.io/ChinmayShah.github.io/images/powertrain.png" alt="Alt Text" width="400" height="300" align="center"> "
+excerpt: "**Duration:** Dec 2016 - Mar 2018 <br/> <img src='http://cshah96.github.io/ChinmayShah.github.io/images/powertrain.png' alt="Alt Text" width="400" height="300" align="center"> "
 collection: portfolio
 ---
 
