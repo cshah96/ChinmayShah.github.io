@@ -1,5 +1,5 @@
 ---
-title: "Design and Development of a Custom Powertrain System"
+title: "Design and Development of a Custom Powertrain System <br/> <img src='http://cshah96.github.io/ChinmayShah.github.io/images/powertrain.png' alt="Alt Text" width="400" height="300" align="right">"
 collection: talks
 type: ""
 permalink: "/talks/CVTProjects"
