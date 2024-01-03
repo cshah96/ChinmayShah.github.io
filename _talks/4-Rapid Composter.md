@@ -9,7 +9,7 @@ location:
 ---
 
 
-Problem: Disposing of waste has become a major issue in today's world. Improper solid waste disposal can result in greenhouse gas emissions, as well as air, water, and soil pollution. For our senior project, our goal was to find a feasible solution to address this problem at the grassroots level. Our solution was to develop a device capable of converting organic waste to compost within 72 hours.
+**Problem:** Disposing of waste has become a major issue in today's world. Improper solid waste disposal can result in greenhouse gas emissions, as well as air, water, and soil pollution. For our senior project, our goal was to find a feasible solution to address this problem at the grassroots level. Our solution was to develop a device capable of converting organic waste to compost within 72 hours.
 
 Solution: Through extensive literature review and consultations with professors in the local university's agriculture department, we discovered rapid composting, which can convert organic waste to compost within 72 hours. To determine if this was feasible, we conducted multiple experiments. Automating the system would allow us to better control temperature, moisture, and airflow.
 
