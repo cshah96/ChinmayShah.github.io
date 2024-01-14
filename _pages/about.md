@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 I am a devoted robotics enthusiast with a strong drive to push the boundaries of technology. My passion lies in constructing robots, and I aspire to leverage this enthusiasm to create impactful devices that enhance people's lives.
 
 ## Research Interest
-My primary goal is to draw inspiration from nature and leverage that knowledge to create cutting-edge robots. My current research focuses on developing innovative robotics solutions inspired by understanding the dynamics of human motion. I aim to comprehend and apply these principles in combination with some learning methods to develop robust control algorithms for humanoids and exoskeletons.
+My primary goal is to draw inspiration from nature and leverage that knowledge to create cutting-edge robots. My current research focuses on developing innovative robotics solutions inspired by understanding the dynamics of human motion. I aim to comprehend and apply these principles in combination with optimization and learning-based methods to develop robust control algorithms for humanoids and exoskeletons.
 
 ## What I bring to the table
 
