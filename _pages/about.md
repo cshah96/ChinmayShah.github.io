@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,104 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<style>
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.1em;
+  margin-top: 1.8em;
+  margin-bottom: 0.5em;
+}
+.project-card {
+  display: block;
+  text-decoration: none !important;
+  color: inherit;
+  border: 1px solid #d0dce8;
+  border-radius: 8px;
+  padding: 1.1em 1.3em;
+  background: #f5f8fc;
+  transition: box-shadow 0.18s, border-color 0.18s, transform 0.18s;
+}
+.project-card:hover {
+  box-shadow: 0 4px 16px rgba(26,70,110,0.13);
+  border-color: #1a6091;
+  transform: translateY(-2px);
+  text-decoration: none !important;
+}
+.project-card h4 {
+  margin: 0 0 0.45em 0;
+  font-size: 0.98em;
+  color: #1a6091;
+}
+.project-card p {
+  margin: 0;
+  font-size: 0.85em;
+  color: #555;
+  line-height: 1.5;
+}
+.project-card .card-tag {
+  display: inline-block;
+  margin-top: 0.6em;
+  font-size: 0.75em;
+  color: #888;
+  font-style: italic;
+}
+.section-divider {
+  border: none;
+  border-top: 2px solid #e0e8f0;
+  margin: 1.8em 0 1.4em 0;
+}
+</style>
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am a PhD researcher in Intelligent Systems and Robotics at the [Institute for Human and Machine Cognition (IHMC)](https://www.ihmc.us/) / University of West Florida, where I focus on the intersection of wearable sensing, machine learning, and exoskeleton control. My work is driven by a core question: *can we give the human body a continuous, intelligent observer — one that understands movement intent, detects early signs of dysfunction, and seamlessly augments physical capability?*
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**Mission.** At its heart, my research aims to close the gap between the human neuromuscular system and robotic assistance. Injury, neurological impairment, or simple fatigue disrupts the body's finely-tuned movement patterns. My goal is to build systems that sense this disruption in real-time — through wearable IMUs, pressure insoles, and EMG — and respond by providing precisely calibrated support through exoskeletons and prostheses. This vision spans from **continuous health and wellness monitoring** (out-of-lab gait analysis, early detection of musculoskeletal and neurological impairments) to **active rehabilitation** (exoskeleton-assisted recovery after stroke or injury) and **injury prevention** (reducing joint loading and effort during demanding tasks).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Approach.** I develop biologically-grounded control frameworks that learn from human movement. Rather than hand-crafting robot behaviors, I train deep neural networks on biomechanical signals to estimate motion intent, predict future kinematics, and compute joint torques in real time. These models run on portable, wearable platforms — decoupled from lab infrastructure — enabling the kind of naturalistic, continuous monitoring that clinical and field deployments demand.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<hr class="section-divider">
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Research Interests
 
-**Markdown generator**
+- **Wearable Biomechanics** — multi-modal sensor fusion (IMU, EMG, pressure insoles) for portable motion analysis
+- **Exoskeleton & Prosthesis Control** — biologically-inspired, intent-aware controllers for lower-limb rehabilitation and assistance
+- **Human Motion Forecasting** — phase-conditioned deep learning for predicting gait across locomotion modes and subjects
+- **Digital Twins for Rehabilitation** — subject-specific biomechanical models enabling remote health monitoring and early impairment detection
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<hr class="section-divider">
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Projects
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<div class="project-grid">
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+  <a class="project-card" href="/portfolio/exoskeleton-control/">
+    <h4>Hip-Knee Exoskeleton Control</h4>
+    <p>Biologically-inspired, intent-aware control for lower-limb exoskeletons using motor synergies, inverse dynamics, and phase-based motion prediction.</p>
+    <span class="card-tag">PhD Thesis &bull; IHMC &bull; 2023&ndash;Present</span>
+  </a>
+
+  <a class="project-card" href="/portfolio/wearable-sensor-suit/">
+    <h4>Wearable Sensor Suit</h4>
+    <p>Portable multi-modal sensing platform (7 IMUs + 2 pressure insoles + EMG) for real-time biomechanics, health monitoring, and exoskeleton control.</p>
+    <span class="card-tag">Hardware &bull; IHMC &bull; 2023&ndash;Present</span>
+  </a>
+
+  <a class="project-card" href="/portfolio/periodic-autoencoder/">
+    <h4>Phase-Conditioned Motion Forecasting</h4>
+    <p>DeepPhase-inspired Periodic Autoencoder for predicting lower-limb kinematics across subjects and locomotion modes — IROS 2026.</p>
+    <span class="card-tag">Deep Learning &bull; IHMC &bull; 2024&ndash;Present</span>
+  </a>
+
+  <a class="project-card" href="/portfolio/emg-prosthesis/">
+    <h4>EMG-Driven Robotic Prosthesis</h4>
+    <p>Closing the neural-to-mechanical loop: volitional control of a robotic ankle prosthesis using an EMG-driven musculoskeletal model — IROS 2022.</p>
+    <span class="card-tag">Prosthetics &bull; NC State &bull; 2020&ndash;2021</span>
+  </a>
+
+  <a class="project-card" href="/portfolio/autonomous-robot/">
+    <h4>Autonomous Delivery &amp; Security Robots</h4>
+    <p>Path planning, behavior coordination, and ML-based collision avoidance for last-mile delivery (FedEx) and autonomous security platforms.</p>
+    <span class="card-tag">Autonomy &bull; DEKA R&amp;D &bull; 2022&ndash;2023</span>
+  </a>
+
+</div>
