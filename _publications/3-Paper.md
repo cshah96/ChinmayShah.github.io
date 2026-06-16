@@ -1,0 +1,9 @@
+---
+title: "Real-Time Phase-Conditioned Human Motion Forecasting for Wearable Robot Control"
+collection: Conference Publications
+venue: 'IROS 2026'
+status: submitted
+excerpt: '**Authors:** **C. Shah**, R. Peterson, J. Li, G. Clark'
+---
+
+**Abstract:** Exoskeleton control requires prediction of human motion to ensure effective assistance and adaptation to user intent. Estimating only the current human motion is insufficient; predictive models are needed to compensate for system latency and to enable proactive assistance. While prior methods have explored predictive control, they are computationally expensive, limiting their suitability for real-time deployment. Drawing inspiration from phase-based generative modeling techniques in computer animation, we introduce a framework for real-time human motion prediction. Our approach integrates wearable inertial measurement unit data with a Periodic Autoencoder and a Mixture of Experts future motion predictor to construct a predictive model of human lower-limb motion. We train and evaluate our method on the Georgia Tech Second Skin dataset, which provides synchronized wearable sensor signals and ground-truth inverse kinematics and kinetics. Our results demonstrate that the proposed framework achieves high prediction accuracy over a 0.5 sec horizon. The model attains an RMSE of 0.175 rad with R2 > 0.80 for joint angle prediction, and an RMSE of 0.185 Nm/kg with R2 > 0.71 for joint moment prediction. We show that the framework generalizes effectively to unseen subjects and diverse locomotion modes. We implement the model in real-time on a hip-knee exoskeleton, demonstrating its ability to predict human joint kinematics and kinetics with low latency. Our results suggest that leveraging these phase-based generative models in combination with wearable sensors can provide robust, adaptable, and computationally efficient solutions for real-time exoskeleton assistance in real-world settings.
