@@ -45,7 +45,7 @@ feature_row:
       </video>
 
       The off-road vehicle I helped design and build as Captain and Technical Head of Powertrain Systems for the BAJA SAE team.
-    url: "/talks/CVTProjects/"
+    url: "/talks/CVTProjects"
     btn_label: "Project Page"
     btn_class: "btn--primary"
 ---
