@@ -10,11 +10,12 @@ location:
 
 ### The IHMC Journey
 
-I have recently embarked on an exciting journey at the Institute of Human Machine and Cognition (IHMC) as a Robotics Controls Engineer. IHMC, with its rich legacy of over 30 years, provides a dynamic environment perfectly aligned with my passion for advancing robotics technology, particularly in the realm of advanced legged robots and exoskeletons.
+Over the past three years at IHMC, I have contributed to the development of advanced control technologies for exoskeletons. My work began with the development of a shear force estimator based on an inverted pendulum model to enhance gravity compensation control. I later developed a biologically inspired torque estimator using a Temporal Convolutional Neural Network (TCNN), enabling direct bio-torque control on IHMC's next-generation exoskeleton, LINK.
 
-My current focus revolves around contributing to the development of control algorithms for the augmentative exoskeleton named EVA. This cutting-edge project, commissioned by the Department of Energy, aims to assist the user with load-carrying and manual material handling capabilities. In this capacity, I am on the development of a shear force estimator, a pivotal component geared towards optimizing the performance of the inverse dynamics controller.
-
-Within the realm of IHMC, my research pursuits are directed towards the exploration of various optimal control and learning methods. The ultimate goal is to craft sophisticated control algorithms tailored for both legged robots and exoskeletons.
+My current research focuses on translating human motion intent detection and forecasting methodologies into real-time exoskeleton control using wearable IMU sensing. To support this effort, I am leading the development of a wireless IMU suit designed to improve usability, streamline data collection, and provide robust real-time sensing capabilities for human-in-the-loop control systems.
 
 
-<img src="http://cshah96.github.io/ChinmayShah.github.io/images/Chinmay+Exo.jpeg" width="450" height="650" alt="Alt Text" align="center">
+<div align="center">
+<img src="http://cshah96.github.io/ChinmayShah.github.io/images/Chinmay%20Exo%20new-1.jpg" width="450" height="650" alt="Alt Text">
+<img src="http://cshah96.github.io/ChinmayShah.github.io/images/Chinmay%20Exo%20new-2.jpg" width="450" height="650" alt="Alt Text">
+</div>
