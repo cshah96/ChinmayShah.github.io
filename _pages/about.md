@@ -45,7 +45,7 @@ feature_row:
       </video>
 
       The off-road vehicle I helped design and build as Captain and Technical Head of Powertrain Systems for the BAJA SAE team.
-      url: "/talks/1-BAJA%20SAE%20Off-Road%20Vehicle/"
+    url: "/talks/1-BAJA%20SAE%20Off-Road%20Vehicle/"
 ---
 
 I am a Robotics PhD student at the Institute for Human and Machine Cognition [IHMC](https://robots.ihmc.us/) in Pensacola, Florida, where I study how human motion can be understood, predicted, and translated into intelligent robotic assistance. My long-term goal is to bridge human biomechanics and robotics by developing exoskeletons that proactively adapt to a user's intent rather than simply react to their movements.
