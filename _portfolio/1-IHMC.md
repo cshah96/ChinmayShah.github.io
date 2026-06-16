@@ -16,6 +16,6 @@ My current research focuses on translating human motion intent detection and for
 
 
 <div align="center">
-<img src="http://cshah96.github.io/ChinmayShah.github.io/images/Chinmay%20Exo%20new-1.jpg" width="450" height="650" alt="Alt Text">
+<img src="http://cshah96.github.io/ChinmayShah.github.io/images/Chinmay%20Exo%20new-3.jpg" width="450" height="650" alt="Alt Text">
 <img src="http://cshah96.github.io/ChinmayShah.github.io/images/Chinmay%20Exo%20new-2.jpg" width="450" height="650" alt="Alt Text">
 </div>
