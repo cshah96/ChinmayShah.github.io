@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Robotics PhD student at the Institute for Human and Machine Cognition (IHMC https://robots.ihmc.us/ ) in Pensacola, Florida, where I study how human motion can be understood, predicted, and translated into intelligent robotic assistance. My long-term goal is to bridge human biomechanics and robotics by developing exoskeletons that proactively adapt to a user's intent rather than simply react to their movements.
+I am a Robotics PhD student at the Institute for Human and Machine Cognition [IHMC](https://robots.ihmc.us/) in Pensacola, Florida, where I study how human motion can be understood, predicted, and translated into intelligent robotic assistance. My long-term goal is to bridge human biomechanics and robotics by developing exoskeletons that proactively adapt to a user's intent rather than simply react to their movements.
 
 My current research focuses on intent-aware representations of human motion for proactive exoskeleton assistance. Inspired by recent advances in latent motion representations such as DeepPhase and Fourier Latent Dynamics (FLD), I investigate how wearable sensing can be used to learn predictive models of human movement that generalize across users, activities, and environments. By combining representation learning, motion forecasting, and personalized control, I aim to enable exoskeletons that anticipate user intent and provide assistance that feels natural, responsive, and intuitive.
 
