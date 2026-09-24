@@ -8,45 +8,21 @@ redirect_from:
   - /about.html
 feature_row:
   - title: "Real-Time Phase-Conditioned Human Motion Forecasting <br><small>IROS 2026</small>"
-    excerpt: >
-      <video width="100%" controls>
-        <source src="images/IROS_2026_Chinmay_Video_Submission_Mar_5.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+    video: "IROS_2026_Chinmay_Video_Submission_Mar_5.mp4"
     url: "/talks/4.3-Real-Time%20Human%20Motion%20Forecasting/"
-    btn_label: "Project Page"
-    btn_class: "btn--primary"
   - title: "EMG-Driven Volitional Control of a Robotic Ankle Prosthesis <br><small>IROS 2022</small>"
-    excerpt: >
-      <video width="100%" controls>
-        <source src="images/ICRA_2022_without_slow_motion.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+    video: "ICRA_2022_without_slow_motion.mp4"
     url: "/talks/4-Robotic%20Ankle%20Prosthesis/"
-    btn_label: "Project Page"
-    btn_class: "btn--primary"
   - title: "Dynamic Balance Recovery"
+    video: "Dynamic_balance_crop_2.mp4"
     excerpt: >
-      <video width="100%" controls>
-        <source src="images/Dynamic_balance_crop_2.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-
       Robotic ankle prosthesis recovering balance under an unexpected disturbance, controlled by the EMG-driven volitional controller.
     url: "/talks/4-Robotic%20Ankle%20Prosthesis/"
-    btn_label: "Project Page"
-    btn_class: "btn--primary"
   - title: "BAJA SAE Off-Road Vehicle"
+    video: "WOQD9547.MP4"
     excerpt: >
-      <video width="100%" controls>
-        <source src="images/WOQD9547.MP4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-
       The off-road vehicle I helped design and build as Captain and Technical Head of Powertrain Systems for the BAJA SAE team.
     url: "/talks/CVTProjects"
-    btn_label: "Project Page"
-    btn_class: "btn--primary"
 ---
 
 I’m a Robotics PhD student at the Institute for Human & Machine Cognition ([IHMC](https://robots.ihmc.us/)), where I study how human motion can be understood, predicted, and translated into intelligent robotic assistance. My long-term goal is to develop intuitive exoskeletons that adapt to each user across a wide range of movements and feel natural to wear.

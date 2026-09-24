@@ -16,6 +16,32 @@
       {% capture f_url %}{{ f.url | prepend: base_path }}{% endcapture %}
     {% endif %}
 
+    {% if include.type == "stacked" %}
+    <div class="feature__item--stacked">
+      <div class="archive__item">
+        <div class="archive__item-body">
+          {% if f.title %}
+            <h2 class="archive__item-title">{% if f.url %}<a href="{{ f_url }}">{{ f.title }}</a>{% else %}{{ f.title }}{% endif %}</h2>
+          {% endif %}
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+          {% endif %}
+        </div>
+        {% if f.video %}
+          <div class="feature__video">
+            <video controls preload="metadata">
+              <source src="{{ f.video | prepend: "/images/" | prepend: base_path }}" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        {% endif %}
+      </div>
+    </div>
+    {% continue %}
+    {% endif %}
+
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
         {% if f.image_path %}

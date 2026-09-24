@@ -244,21 +244,47 @@
   }
 }
 
-/* Single-column feature rows (e.g. homepage Featured Work) */
+/* Single-column feature rows (e.g. homepage Featured Work):
+   title and description on the left, video beside it on wide screens */
 
 .feature__item--stacked {
   @include full();
   margin-bottom: 2.5em;
   font-size: 1.25rem;
 
+  .archive__item {
+    @include breakpoint($large) {
+      display: flex;
+      align-items: flex-start;
+      gap: 1.5em;
+    }
+  }
+
+  .archive__item-body {
+    flex: 1 1 12em;
+  }
+
   .archive__item-title {
+    margin-top: 0;
     font-size: $type-size-5;
+
+    a {
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .feature__video {
+    flex: 0 1 480px;
   }
 
   video {
     display: block;
     width: 100%;
-    max-width: 640px;
-    max-height: 480px;
+    max-width: 480px;
+    max-height: 360px;
   }
 }
