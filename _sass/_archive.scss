@@ -281,19 +281,13 @@
     flex: 0 1 480px;
   }
 
-  .feature__video--portrait {
-    flex-basis: 200px;
-
-    video {
-      max-width: 200px;
-      max-height: none;
-    }
-  }
-
+  /* same 16:9 frame for every video; portrait clips are pillarboxed */
   video {
     display: block;
     width: 100%;
     max-width: 480px;
-    max-height: 360px;
+    aspect-ratio: 16 / 9;
+    object-fit: contain;
+    background: #000;
   }
 }

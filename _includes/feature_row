@@ -30,7 +30,7 @@
           {% endif %}
         </div>
         {% if f.video %}
-          <div class="feature__video{% if f.video_portrait %} feature__video--portrait{% endif %}">
+          <div class="feature__video">
             <video controls preload="metadata">
               <source src="{{ f.video | prepend: "/images/" | prepend: base_path }}" type="video/mp4">
               Your browser does not support the video tag.

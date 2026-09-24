@@ -15,7 +15,6 @@ feature_row:
     url: "/talks/4-Robotic%20Ankle%20Prosthesis/"
   - title: "Dynamic Balance Recovery"
     video: "Dynamic_balance_crop_2.mp4"
-    video_portrait: true
     excerpt: >
       Robotic ankle prosthesis recovering balance under an unexpected disturbance, controlled by the EMG-driven volitional controller.
     url: "/talks/4-Robotic%20Ankle%20Prosthesis/"
