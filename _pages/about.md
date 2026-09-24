@@ -7,14 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 feature_row:
-  - title: "Real-Time Phase-Conditioned Human Motion Forecasting <br><small>IROS 2026 (submitted)</small>"
+  - title: "Real-Time Phase-Conditioned Human Motion Forecasting <br><small>IROS 2026</small>"
     excerpt: >
       <video width="100%" controls>
         <source src="images/IROS_2026_Chinmay_Video_Submission_Mar_5.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-
-      **Paper:** [Real-Time Phase-Conditioned Human Motion Forecasting for Wearable Robot Control](publications/3-Paper/)
     url: "/talks/4.3-Real-Time%20Human%20Motion%20Forecasting/"
     btn_label: "Project Page"
     btn_class: "btn--primary"
@@ -24,8 +22,6 @@ feature_row:
         <source src="images/ICRA_2022_without_slow_motion.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-
-      **Paper:** [Design of EMG-driven Musculoskeletal Model for Volitional Control of a Robotic Ankle Prosthesis](publications/2-Paper/)
     url: "/talks/4-Robotic%20Ankle%20Prosthesis/"
     btn_label: "Project Page"
     btn_class: "btn--primary"
@@ -37,6 +33,9 @@ feature_row:
       </video>
 
       Robotic ankle prosthesis recovering balance under an unexpected disturbance, controlled by the EMG-driven volitional controller.
+    url: "/talks/4-Robotic%20Ankle%20Prosthesis/"
+    btn_label: "Project Page"
+    btn_class: "btn--primary"
   - title: "BAJA SAE Off-Road Vehicle"
     excerpt: >
       <video width="100%" controls>
@@ -50,16 +49,18 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-I am a Robotics PhD student at the Institute for Human and Machine Cognition [IHMC](https://robots.ihmc.us/) in Pensacola, Florida, where I study how human motion can be understood, predicted, and translated into intelligent robotic assistance. My long-term goal is to bridge human biomechanics and robotics by developing exoskeletons that proactively adapt to a user's intent rather than simply react to their movements.
+I’m a Robotics PhD student at the Institute for Human & Machine Cognition ([IHMC](https://robots.ihmc.us/)), where I study how human motion can be understood, predicted, and translated into intelligent robotic assistance. My long-term goal is to develop intuitive exoskeletons that adapt to each user across a wide range of movements and feel natural to wear.
 
-My current research focuses on intent-aware representations of human motion for proactive exoskeleton assistance. Inspired by recent advances in latent motion representations such as DeepPhase and Fourier Latent Dynamics (FLD), I investigate how wearable sensing can be used to learn predictive models of human movement that generalize across users, activities, and environments. By combining representation learning, motion forecasting, and personalized control, I aim to enable exoskeletons that anticipate user intent and provide assistance that feels natural, responsive, and intuitive.
+My research focuses on **intent-aware representations of human motion for proactive exoskeleton assistance**. Building on latent motion models such as DeepPhase and Fourier Latent Dynamics (FLD), I learn continuous, phase-structured representations of human movement directly from motion and biomechanics data. This *phase manifold* captures where a person is in a movement and where they are headed, across users, activities, and transitions.
 
-To support this vision, I develop machine learning models for human motion prediction and biomechanical estimation from wearable sensors, while also building sensing platforms that enable real-time data collection outside the laboratory. My work spans wearable IMU systems, inverse dynamics estimation, intent prediction, and human-in-the-loop control, with applications in assistive robotics, rehabilitation, and digital human twins.
+My current work explores **phase-manifold-driven torque shaping**—using this learned representation to shape exoskeleton assistance. Instead of mapping sensor measurements directly to torque, the controller reasons about the user’s position and progression on the manifold, enabling smooth, proactive impedance-based assistance and recognition of unfamiliar motions. Through a teacher–student framework, representations learned from lab-grade biomechanics are distilled into models that run in real time using a small set of wearable IMUs.
 
-Before joining IHMC, I worked as a Robotics Control Systems Engineer at DEKA Research & Development, where I developed planning and control software for autonomous mobile robots. Prior to that, I was a Research Assistant in the Neuromuscular and Rehabilitation Engineering Lab at NC State University, developing EMG-driven control systems for powered ankle prostheses.
+I also develop wearable sensing platforms for collecting motion data beyond the lab. My broader work spans IMU-based sensing, inverse dynamics estimation, intent prediction, and human-in-the-loop control, with applications in assistive robotics, rehabilitation, and digital human modeling.
 
-Outside of research, I enjoy running, hiking, mountain biking, skiing, and cooking.
+Before IHMC, I was a Robotics Control Systems Engineer at DEKA Research & Development, where I developed planning and control software for autonomous mobile robots. Earlier, I was a Research Assistant in the Neuromuscular and Rehabilitation Engineering Lab at NC State University, working on EMG-driven control of powered ankle prostheses.
+
+Outside the lab, I enjoy running, hiking, mountain biking, skiing, and cooking.
 
 ## Featured Work
 
-{% include feature_row %}
+{% include feature_row type="stacked" %}

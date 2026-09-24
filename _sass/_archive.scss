@@ -243,3 +243,22 @@
     }
   }
 }
+
+/* Single-column feature rows (e.g. homepage Featured Work) */
+
+.feature__item--stacked {
+  @include full();
+  margin-bottom: 2.5em;
+  font-size: 1.25rem;
+
+  .archive__item-title {
+    font-size: $type-size-5;
+  }
+
+  video {
+    display: block;
+    width: 100%;
+    max-width: 640px;
+    max-height: 480px;
+  }
+}

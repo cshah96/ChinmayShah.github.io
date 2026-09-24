@@ -2,7 +2,7 @@
 title: "Real-Time Phase-Conditioned Human Motion Forecasting for Wearable Robot Control"
 collection: Conference Publications
 venue: 'IROS 2026'
-status: submitted
+status: accepted
 excerpt: '**Authors:** **C. Shah**, R. Peterson, J. Li, G. Clark'
 ---
 
