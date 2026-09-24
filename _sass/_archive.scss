@@ -281,6 +281,15 @@
     flex: 0 1 480px;
   }
 
+  .feature__video--portrait {
+    flex-basis: 200px;
+
+    video {
+      max-width: 200px;
+      max-height: none;
+    }
+  }
+
   video {
     display: block;
     width: 100%;
