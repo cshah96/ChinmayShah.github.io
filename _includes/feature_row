@@ -29,7 +29,11 @@
             </div>
           {% endif %}
         </div>
-        {% if f.video %}
+        {% if f.image_path %}
+          <div class="feature__video">
+            <a href="{{ f_url }}"><img src="{{ f.image_path | prepend: "/images/" | prepend: base_path }}" alt="{{ f.alt }}"></a>
+          </div>
+        {% elsif f.video %}
           <div class="feature__video">
             <video controls preload="metadata">
               <source src="{{ f.video | prepend: "/images/" | prepend: base_path }}" type="video/mp4">

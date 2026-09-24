@@ -278,16 +278,22 @@
   }
 
   .feature__video {
-    flex: 0 1 480px;
+    flex: 0 1 240px;
   }
 
   /* same 16:9 frame for every video; portrait clips are pillarboxed */
   video {
     display: block;
     width: 100%;
-    max-width: 480px;
+    max-width: 240px;
     aspect-ratio: 16 / 9;
     object-fit: contain;
     background: #000;
+  }
+
+  .feature__video img {
+    display: block;
+    width: 100%;
+    max-width: 240px;
   }
 }

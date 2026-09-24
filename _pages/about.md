@@ -7,10 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 feature_row:
-  - title: "Real-Time Phase-Conditioned Human Motion Forecasting <br><small>IROS 2026</small>"
+  - title: "Phase-Manifold-Driven Torque Shaping"
+    image_path: "Phase_Manifold_Torque_Shaping.jpeg"
+    alt: "Phase-manifold-driven torque shaping pipeline"
+    url: "/talks/4.5-Phase-Manifold-Driven%20Torque%20Shaping/"
+  - title: "Real-Time Phase-Conditioned Human Motion Forecasting <small>IROS 2026</small>"
     video: "IROS_2026_Chinmay_Video_Submission_Mar_5.mp4"
     url: "/talks/4.3-Real-Time%20Human%20Motion%20Forecasting/"
-  - title: "EMG-Driven Volitional Control of a Robotic Ankle Prosthesis <br><small>IROS 2022</small>"
+  - title: "EMG-Driven Volitional Control of a Robotic Ankle Prosthesis <small>IROS 2022</small>"
     video: "ICRA_2022_without_slow_motion.mp4"
     url: "/talks/4-Robotic%20Ankle%20Prosthesis/"
   - title: "Dynamic Balance Recovery"
