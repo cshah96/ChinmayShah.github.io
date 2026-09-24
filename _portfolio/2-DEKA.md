@@ -22,7 +22,7 @@ During rigorous testing, we identified a considerable challenge in deploying the
 Following a project transition from an autonomous delivery robot to a security robot, our team faced a fresh set of challenges, particularly in operating within indoor narrow office spaces. Navigating these confined spaces required meticulous attention to detail, as even slight errors in perception could impede the efficiency of the path planning stack. To overcome this, we introduced a reachability cost layer and a Euclidean distance-based cost layer for the Model Predictive Controller (MPC), enabling the system to cease planning paths through narrow spaces or over obstacles when necessary. This exposed me to a bit of GPU programming as well to ensure real time performance. This adaptive approach ensured effective navigation in challenging indoor environments.
 
 <div align="center">
-<img src="http://cshah96.github.io/ChinmayShah.github.io/images/DEKA.png" alt="Image not shown" width="650" height="450">
+<img src="{{ site.baseurl }}/images/DEKA.png" alt="Image not shown" width="650" height="450">
 </div>
 
 ### Capacitive Deionization-based Water Purification System.s

@@ -15,11 +15,11 @@ Solution: Through extensive literature review and consultations with professors 
 
 We developed a compact rapid composting machine that can convert organic waste to compost within 72 hours. The device has a crusher that can break waste down into smaller pieces to increase surface area, facilitating quicker decomposition. We also set up a mechatronic system with feedback control responsible for maintaining the appropriate levels of temperature, airflow, and moisture to promote rapid composting. The final device can compost 75% of daily household waste to compost within 72 hours.
 
-![Distance to line](http://cshah96.github.io/ChinmayShah.github.io/images/Rapid Composter.png)
+![Distance to line]({{ site.baseurl }}/images/Rapid Composter.png)
 
 ## Awards
 - Won the runners up award at Aakruti 2018 (Dassault Systems Design Innovation Competition) out of 1200 teams all over India.
 - Won the Forbes Marshall best project award
 - Pune University state level design competition.
 
-![Distance to line](http://cshah96.github.io/ChinmayShah.github.io/images/Awards.png)
+![Distance to line]({{ site.baseurl }}/images/Awards.png)
