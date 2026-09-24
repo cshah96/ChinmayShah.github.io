@@ -250,7 +250,7 @@
 .feature__item--stacked {
   @include full();
   margin-bottom: 2.5em;
-  font-size: 1.25rem;
+  font-size: 1rem;
 
   .archive__item {
     @include breakpoint($large) {
@@ -278,14 +278,14 @@
   }
 
   .feature__video {
-    flex: 0 1 240px;
+    flex: 0 1 288px;
   }
 
   /* same 16:9 frame for every video; portrait clips are pillarboxed */
   video {
     display: block;
     width: 100%;
-    max-width: 240px;
+    max-width: 288px;
     aspect-ratio: 16 / 9;
     object-fit: contain;
     background: #000;
@@ -294,6 +294,6 @@
   .feature__video img {
     display: block;
     width: 100%;
-    max-width: 240px;
+    max-width: 288px;
   }
 }
