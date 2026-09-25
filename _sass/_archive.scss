@@ -298,12 +298,13 @@
   }
 }
 
-/* Projects page: black, slightly smaller titles with media beside them */
+/* Projects page: black, slightly smaller titles with a small video/image
+   to the right of the title and contribution */
 .talk__item {
   margin-bottom: 2em;
 
   .archive__item {
-    @include breakpoint($large) {
+    @include breakpoint($medium) {
       display: flex;
       align-items: flex-start;
       gap: 1.5em;
@@ -315,6 +316,7 @@
   }
 
   .archive__item-title {
+    margin-top: 0;
     font-size: $type-size-5;
 
     a {
@@ -328,14 +330,13 @@
   }
 
   .feature__video {
-    flex: 0 1 374px;
-    margin-top: 1em;
+    flex: 0 0 240px;
+    max-width: 240px;
   }
 
   video {
     display: block;
     width: 100%;
-    max-width: 374px;
     aspect-ratio: 16 / 9;
     object-fit: contain;
     background: #000;
@@ -344,7 +345,6 @@
   .feature__video img {
     display: block;
     width: 100%;
-    max-width: 374px;
   }
 }
 
