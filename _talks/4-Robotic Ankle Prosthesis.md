@@ -6,6 +6,7 @@ permalink:
 excerpt: " **Duration:** Mar 2020 - Dec 2021 <br> **Contribution:** Embedded System Design, Data Acquisition, Machine Design, Finite State Control, EMG-Driven Neuromuscular Modeling, Control Theory, Non-Linear Optimization, Real-Time Control System Design, Design of Experiment." 
 venue:  
 location: 
+video: "ICRA_2022_without_slow_motion.mp4"
 ---
 
 ## Mechanical and Embedded System Design

@@ -12,8 +12,9 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<div class="{{ include.type | default: "list" }}__item talk__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="archive__item-body">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -38,5 +39,18 @@
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    </div>
+    {% if post.video %}
+      <div class="feature__video">
+        <video controls preload="metadata">
+          <source src="{{ post.video | prepend: "/images/" | prepend: base_path }}" type="video/{% if post.video contains ".webm" %}webm{% else %}mp4{% endif %}">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    {% elsif post.image_path %}
+      <div class="feature__video">
+        <a href="{{ base_path }}{{ post.url }}"><img src="{{ post.image_path | prepend: "/images/" | prepend: base_path }}" alt="{{ title | strip_html }}"></a>
+      </div>
+    {% endif %}
   </article>
 </div>

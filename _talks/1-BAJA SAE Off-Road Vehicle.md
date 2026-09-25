@@ -6,6 +6,7 @@ permalink: "/talks/CVTProjects"
 excerpt: " **Duration:** Mar 2016 - Mar 2018 <br> **Contribution:** Captain and Technical Head - Powertrain Systems; Custom Powertrain, CVT, Gearbox, and CV Joint Design; Team and Project Management <br>" 
 venue:  
 location: 
+video: "WOQD9547.MP4"
 ---
 
 I led a team of 25 students in designing, manufacturing, and building an off-road vehicle to compete in the BAJA SAE India competition, where teams design and build an off-road vehicle to compete in events such as acceleration, suspension, traction, and a final 4-hour endurance race, all using the same engine to emphasize design optimization over raw power.

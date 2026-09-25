@@ -29,6 +29,8 @@ feature_row:
     url: "/talks/CVTProjects"
 ---
 
+<div class="about__text" markdown="1">
+
 I’m a Robotics PhD student at the Institute for Human & Machine Cognition ([IHMC](https://robots.ihmc.us/)), where I study how human motion can be understood, predicted, and translated into intelligent robotic assistance. My long-term goal is to develop intuitive exoskeletons that adapt to each user across a wide range of movements and feel natural to wear.
 
 My research focuses on **intent-aware representations of human motion for proactive exoskeleton assistance**. Building on latent motion models such as DeepPhase and Fourier Latent Dynamics (FLD), I learn continuous, phase-structured representations of human movement directly from motion and biomechanics data. This *phase manifold* captures where a person is in a movement and where they are headed, across users, activities, and transitions.
@@ -40,6 +42,8 @@ I also develop wearable sensing platforms for collecting motion data beyond the 
 Before IHMC, I was a Robotics Control Systems Engineer at DEKA Research & Development, where I developed planning and control software for autonomous mobile robots. Earlier, I was a Research Assistant in the Neuromuscular and Rehabilitation Engineering Lab at NC State University, working on EMG-driven control of powered ankle prostheses.
 
 Outside the lab, I enjoy running, hiking, mountain biking, skiing, and cooking.
+
+</div>
 
 ## Featured Work
 

@@ -297,3 +297,58 @@
     max-width: 374px;
   }
 }
+
+/* Projects page: black, slightly smaller titles with media beside them */
+.talk__item {
+  margin-bottom: 2em;
+
+  .archive__item {
+    @include breakpoint($large) {
+      display: flex;
+      align-items: flex-start;
+      gap: 1.5em;
+    }
+  }
+
+  .archive__item-body {
+    flex: 1 1 12em;
+  }
+
+  .archive__item-title {
+    font-size: $type-size-5;
+
+    a {
+      color: $text-color;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .feature__video {
+    flex: 0 1 374px;
+    margin-top: 1em;
+  }
+
+  video {
+    display: block;
+    width: 100%;
+    max-width: 374px;
+    aspect-ratio: 16 / 9;
+    object-fit: contain;
+    background: #000;
+  }
+
+  .feature__video img {
+    display: block;
+    width: 100%;
+    max-width: 374px;
+  }
+}
+
+/* About page body text */
+.about__text p {
+  text-align: justify;
+}

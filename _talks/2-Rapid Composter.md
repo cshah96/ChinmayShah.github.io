@@ -6,6 +6,7 @@ permalink:
 excerpt: " **Duration:** May 2017 - Dec 2018 <br> **Contribution:** Conceptualization, Raspberry Pi, Embedded and Data Acquisition system and Rapid prototyping <br> **Awards: Runners up award at Aakruti 2018 (Dassault Systems Design Innovation Competition) out of 1200 teams all over India.**" 
 venue:  
 location: 
+image_path: "Rapid Composter.png"
 ---
 
 
